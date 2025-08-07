@@ -6,7 +6,7 @@ A RESTful API for managing books in a bookstore built with Node.js, Express.js, 
 
 ```bash
 # 1. Clone and setup
-git clone <repository-url>
+git clone https://github.com/AboubakarArisar/Backend-Internship
 cd D-Hub-Corp-Internship
 
 # 2. Install dependencies
